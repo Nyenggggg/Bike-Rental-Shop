@@ -59,7 +59,7 @@ psql -U postgres -d bikes -f bike-shop.sql
 ### 3. Run the application
 
 ```bash
-bash bike.sh
+bash bike-shop.sh
 ```
 
 ---
